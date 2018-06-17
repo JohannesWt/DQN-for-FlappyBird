@@ -1,5 +1,13 @@
+# -*- coding: utf-8 -*-
+# @Author: Rishabh Thukral
+# @Date:   2017-05-26 20:55:00
+# @Last Modified by:   Rishabh Thukral
+# @Last Modified time: 2018-06-17 07:56:40
+
+
 import pygame
 import sys
+
 def load():
     # path of player with different states
     PLAYER_PATH = (

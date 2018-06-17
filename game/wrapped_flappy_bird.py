@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Author: Rishabh Thukral
+# @Date:   2017-05-26 20:55:00
+# @Last Modified by:   Rishabh Thukral
+# @Last Modified time: 2018-06-17 07:52:19
+
+
 import numpy as np
 import sys
 import random
